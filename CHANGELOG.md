@@ -1,7 +1,13 @@
-<a name="1.0.4"></a>
+# Polinom-io/ionic-native-mocks #
+
+## [2.0.13](https://github.com/chrisgriffith/ionic-native-mocks) (2017-07-11)
+
+- Added Support for @ionic-native/http@5
+
 ## [1.0.4](https://github.com/chrisgriffith/ionic-native-mocks) (2017-07-11)
 
 ### New Plugins
+
 - background-fetch
 - background-mode
 - backlight
@@ -20,10 +26,10 @@
 - device-feedback
 - document-viewer
 
-<a name="1.0.3"></a>
 ## [1.0.3](https://github.com/chrisgriffith/ionic-native-mocks) (2017-07-07)
 
 ### New Plugins
+
 - admob
 - admob-free
 - app-preferences
@@ -44,10 +50,13 @@
 - secure-storage
 
 <a name="1.0.2"></a>
+
 ## [1.0.2](https://github.com/chrisgriffith/ionic-native-mocks) (2017-07-05)
 
 ### Features
+
 Inital Release
+
 - actions-sheets
 - barcode-scanner
 - ble
