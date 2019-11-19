@@ -1,4 +1,4 @@
-# Ionic Native Mocks
+# Ionic Native Mocks Fork from [ionic-native-mocks](https://github.com/chrisgriffin/ionic-native-mocks)
 
 Ionic Native Mocks are designed to be used as placeholders during development for the actual Ionic Native modules. [Ionic Native](https://github.com/ionic-team/ionic-native) is a curated set of wrappers for [Apache Cordova](https://cordova.apache.org/) plugins that make adding any native functionality you need to your [Ionic](https://ionicframework.com/) mobile application easier.
 
@@ -8,18 +8,21 @@ However, once you integrate these plugins into your Ionic application, use of a 
 
 ## Installation
 
-This project allows developers to use Ionic Native Mocks in place of the actual Ionic Native modules. They can be installed in via to methods. 
-1) via npm: Installing these prebuilt mocks is easy but they are not easily customized.
-2) via GitHub and manually added to your Ionic project: Installing this way means the mocks can be customized to return specific data, like a specific parsing of a QR code.
+This project allows developers to use Ionic Native Mocks in place of the actual Ionic Native modules. They can be installed in via to methods.
+
+1. via npm: Installing these prebuilt mocks is easy but they are not easily customized.
+2. via GitHub and manually added to your Ionic project: Installing this way means the mocks can be customized to return specific data, like a specific parsing of a QR code.
 
 ### Installation via npm
 
 Run following command to install a Ionic Native Mock into your project.
+
 ```bash
 npm install @ionic-native-mocks/[plug-in] --save
 ```
 
 For instance, to install the camera mock:
+
 ```bash
 npm install @ionic-native-mocks/camera --save
 ```
@@ -83,10 +86,13 @@ export class MyComponent {
   }
 }
 ```
+
 ### Customization
+
 To learn how to customize an Ionic Native Mock, see the guide at: https://chrisgriffith.wordpress.com/2017/08/21/customizing-ionic-native-mocks/ (https://chrisgriffith.wordpress.com/2017/08/21/customizing-ionic-native-mocks/)
 
-## Missing a mock? Found a problem?  
+## Missing a mock? Found a problem?
+
 Let us know or submit a PR!
 
 # Credits

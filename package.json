@@ -1,9 +1,9 @@
 {
   "name": "ionic-native-mocks",
   "version": "2.0.12",
-  "description": "Mocks for Ionic Native for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
-  "author": "Chris Griffith <chris.griffith@gmail.com> (https://aj-software.com)",
-  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "description": "Fork of chrisgriffith's Mocks for Ionic Native for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
+  "author": "Mario Espinoza <mario@polinom.io>",
+  "homepage": "https://github.com/polinom-io/ionic-native-mocks#readme",
   "license": "MIT",
   "devDependencies": {
     "@angular/compiler": "4.4.4",
@@ -93,7 +93,7 @@
     "@ionic-native/health": "^4.9.1",
     "@ionic-native/health-kit": "^4.9.1",
     "@ionic-native/hotspot": "^4.9.1",
-    "@ionic-native/http": "^4.9.1",
+    "@ionic-native/http": "^5.17.0",
     "@ionic-native/httpd": "^4.9.1",
     "@ionic-native/hyper-track": "^4.9.1",
     "@ionic-native/ibeacon": "^4.9.1",
@@ -241,10 +241,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+    "url": "git+https://github.com/polinom-io/ionic-native-mocks.git"
   },
   "bugs": {
-    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+    "url": "https://github.com/polinom-io/ionic-native-mocks/issues"
   },
   "config": {
     "commitizen": {
